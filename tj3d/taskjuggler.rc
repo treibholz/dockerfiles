@@ -1,0 +1,7 @@
+_global:
+    authKey: topsecret
+    webServerPort: 8088
+    _log:
+        logLevel: 3
+        outputLevel: 3
+
